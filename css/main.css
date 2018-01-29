@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway|Roboto);
+
+body {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 5%;
+}
+
+#right {
+    margin: 20px 15% 0 15%;
+    min-height: 150px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+#mail {
+    text-decoration: none;
+    font-size: 200%;
+    color: #000000;
+    margin-top: 0px;
+}
+
+
+updateDate {
+    style: "bold";
+}
+
+a{
+    text-decoration: "none";
+
+}
+
+/* Using wikipedia's link colors for now */
+
+a:link{
+    color: "#0645AD"
+
+}
+
+a:visited{
+    color: "#0B0080"
+}
+
+a:hover{
+    text-decoration: "underline";
+
+{
